@@ -3,12 +3,10 @@
 //os numeros pares de 1 a 100:
 
 #include <stdio.h>
-
 #include <stdlib.h>
 
 void setup() {
 }
-
 
 void loop() {
   int i=0;
